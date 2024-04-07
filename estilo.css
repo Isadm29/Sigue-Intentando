@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.titulo {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.texto {
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.boton {
+    background-color: white;
+    color: black;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.condiciones {
+    font-size: 12px;
+    margin-top: 20px;
+}
+
+.condiciones a {
+    color: black;
+    text-decoration: none;
+}
